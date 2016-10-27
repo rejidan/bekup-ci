@@ -1,0 +1,1 @@
+define({  "name": "ToDo List",  "version": "1.0.0",  "description": "Todo List API Dokumentasi",  "title": "Todo List API Dokumentasi",  "url": "https://api.todoapp.dev/v1",  "sampleUrl": false,  "apidoc": "0.2.0",  "generator": {    "name": "apidoc",    "time": "2016-10-25T12:41:11.830Z",    "url": "http://apidocjs.com",    "version": "0.16.1"  }});
